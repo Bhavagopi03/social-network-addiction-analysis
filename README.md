@@ -23,7 +23,7 @@ Social media has become an integral part of our daily lives, but it also has sig
 - **Perceived Addiction Level**: Self-reported addiction levels (scale of 1-10).
 - **Impact Areas**: Productivity, mental health, social relationships, etc.
 
-The raw data is available in the repository as a CSV file (`data/social_media_data.csv`).
+The raw data is available in the repository as a CSV file (`Social Network Addiction Analysis Survey.csv`).
 
 ## Preprocessing and Cleaning
 
@@ -44,8 +44,8 @@ Detailed analysis results are available in the documentation provided.
 ## Repository Contents
 
 - `main.py`: The main PySpark script for cleaning and analyzing the data.
-- `data/social_media_data.csv`: The dataset collected from the survey.
-- `docs/analysis_report.pdf`: Detailed documentation and results of the analysis.
+- `Social Network Addiction Analysis Survey.csv`: The dataset collected from the survey.
+- `Social Network Analysis Documentation (PySpark on Google Colab).pdf`: Detailed documentation and results of the analysis.
 
 ## How to Run the Project
 
